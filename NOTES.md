@@ -26,7 +26,12 @@ Functions are expressions that define relationships between two or more variable
 More specifically a function takes independent variables (also called domain variables or input variables), plugs them into an expression, and then result in a dependent variable(also called an output variable)
 
 
-# 3dD functions and Beyond
+# 3d functions and Beyond
 
 f(x,y) = 2x + 3y
+
+
+# Exponential and Logarithmic Functions(指数函数和对数函数)
+
+Euler's Number(欧拉数)
 
