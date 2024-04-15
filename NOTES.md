@@ -35,3 +35,7 @@ f(x,y) = 2x + 3y
 
 Euler's Number(欧拉数)
 
+# Derivatives(导数)
+
+A derivative tells the slop of a function, and it is useful to measure the rate of change at any point in a function.
+
