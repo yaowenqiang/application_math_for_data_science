@@ -42,3 +42,5 @@ A derivative tells the slop of a function, and it is useful to measure the rate 
 ## partial derivative(偏导数)
 ## Gradient Descent(梯度下降)
 ## multivariable gradient descent(多变量梯度下降)
+
+## Saddle point(鞍点)
