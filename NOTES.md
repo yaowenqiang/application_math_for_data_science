@@ -44,3 +44,234 @@ A derivative tells the slop of a function, and it is useful to measure the rate 
 ## multivariable gradient descent(多变量梯度下降)
 
 ## Saddle point(鞍点)
+
+## Integral(积分)
+
+## reimann sum(黎曼和)
+
+
+# Linear Algebra(线性代数)
+
+## Why learn linear algebra
+
++ Linear algebra can be found in many areas of science, technology, engineering, and data science.
++ Computers can more effciently model data as vectors and matrices and perform operations more effectively
++ It is also the backbone of machine learning, data management, graphical modeling, and other computer science areas.
++ If you want to advance your knowledge in machine, statistical modeling, or other areas in computer science then linear algebra is a must!
+
+## Vector(向量)
+
+What Are Vectors? 
+
+Vectors are an arrow in space, with a specific direction and length
+
+This can mean different things in different disciplines.
+
++ Physics - Direction and magnitude
++ Computer science - An array of numbers storing data
++ Math - a direction and scale on an XY plane.
+
+
+We can think of a two-dimensional vector as a pair of numbers.
+
+$$ \vec{v} = \begin{bmatrix} 3 \\ 4 \end{bmatrix} $$
+
+we specify a vector with the name  $$ \vec{v}$$ and from the origin(0,0) we make 3 steps along the x-axis and 4 steps up the y-axis.
+
+Think of vectors as more than a data point, it's a movement hence its representation as an arrow
+
+Vectors must start at the origin(0,0) and cannot arbitrarily start at any point in space.
+
+## 3D vectors and Beyond
+
+$$
+\vec{v} = \begin{bmatrix}
+4 \\
+1\\
+2
+\end{bmatrix}
+$$
+
+## Adding/Combining Vectors
+
+$$
+\vec{v} + \vec{w} = \begin{bmatrix}
+3\\
+2\\
+\end{bmatrix} +  \begin{bmatrix}
+2\\
+-1\\
+\end{bmatrix} = \begin{bmatrix}
+4\\
+1\\
+\end{bmatrix}
+$$
+
+## Subtracting Vectors
+
+$$
+\vec{v} - \vec{w} = \begin{bmatrix}
+3\\
+2\\
+\end{bmatrix} -  \begin{bmatrix}
+1\\
+3\\
+\end{bmatrix} = \begin{bmatrix}
+2\\
+-1\\
+\end{bmatrix}
+$$
+
+## Multiplying/Scaling vectors
+
+$$
+\vec{v}  = \begin{bmatrix}
+3\\
+1\\
+\end{bmatrix} 
+$$
+$$
+2\vec{v} = 2\begin{bmatrix}
+3\\
+1\\
+\end{bmatrix} = 
+ \begin{bmatrix}
+6\\
+2\\
+\end{bmatrix}
+$$
+
+$$
+.5\vec{v} = .5\begin{bmatrix}
+3\\
+1\\
+\end{bmatrix} = 
+ \begin{bmatrix} 1.5\\ .5\\ \end{bmatrix}
+$$
+
+When you multipy/scale a vector with a negative number, it will flip the vector in the opposite direction.
+
+> Note that multipying/scaling a vector only grows or shrinks a vector
+>
+> Scaling does not change a vector's direction except for a negative scalar which flips its direction
+
+$$
+\vec{v} = \begin{bmatrix} 3\\2\end{bmatrix}
+$$
+
+$$
+-1.5\vec{v} = -1.5\begin{bmatrix} 3\\2\end{bmatrix} = \begin{bmatrix} -4.5\\-3\end{bmatrix}
+$$
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Matrix Transpose(矩阵转置)
+$$
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+$$
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+$$
+
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Matrix Transpose(矩阵转置)
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Matrix Transpose(矩阵转置)
+
+## Matrix Determinant(矩阵行列式)
+
+## Matrix Trace(矩阵迹)
+
+## Matrix Rank(矩阵秩)
+
+## Matrix Diagonalization(矩阵对角化)
+
+## Matrix Eigenvalue(矩阵特征值)
+
+## Matrix Eigenvector(矩阵特征向量)
+
+## Vector Space(向量空间)
+
+## Vector Norm(向量范数)
+
+## Matrix(矩阵)
+
+## Vector(向量)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Matrix Transpose(矩阵转置)
+
+## Matrix Determinant(矩阵行列式)
+
+## Matrix Trace(矩阵迹)
+
+## Matrix Rank(矩阵秩)
+
+## Matrix Diagonalization(矩阵对角化)
+
+## Matrix Eigenvalue(矩阵特征值)
+
+## Matrix Eigenvector(矩阵特征向量)
