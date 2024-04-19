@@ -163,6 +163,74 @@ $$
 -1.5\vec{v} = -1.5\begin{bmatrix} 3\\2\end{bmatrix} = \begin{bmatrix} -4.5\\-3\end{bmatrix}
 $$
 
+
+$$
+\begin{bmatrix} x\\y\end{bmatrix} = \begin{bmatrix}
+2&0\\0&3
+    \end{bmatrix} \begin{bmatrix} 2\\1\end{bmatrix}
+$$
+
+$$
+\begin{bmatrix} x\\y\end{bmatrix} = \begin{bmatrix}
+(2)(2)+(0)(1)\\(2)(0)+(3)(1)
+    \end{bmatrix} 
+$$
+$$
+\begin{bmatrix} x\\y\end{bmatrix} = \begin{bmatrix} 4\\3\end{bmatrix}
+$$
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Matrix Transpose(矩阵转置)
+
+## Matrix Determinant(矩阵行列式)
+$$
+
+## Vector Norm(向量范数)
+
+A vector norm is a function that maps a vector to a scalar value.
+
+The most common vector norms are the Euclidean norm, the Manhattan norm, and the Minkowski norm.
+
+## Vector Space(向量空间)
+
+## Matrix(矩阵)
+
+## Matrix Multiplication(矩阵乘法)
+
+## Matrix Inverse(矩阵求逆)
+
+## Matrix Transpose(矩阵转置)
+
+## Matrix Determinant(矩阵行列式)
+$$
+
 ## Vector Norm(向量范数)
 
 A vector norm is a function that maps a vector to a scalar value.
