@@ -179,6 +179,33 @@ $$
 \begin{bmatrix} x\\y\end{bmatrix} = \begin{bmatrix} 4\\3\end{bmatrix}
 $$
 
+
+## Matrix vector multiplication formula:
+
+$$
+\begin{bmatrix} x_new\\ y_new \end{bmatrix}  =  \begin{bmatrix} a & b \\ c & d \\ \end{bmatrix}  \begin{bmatrix} x \\ y\end{bmatrix}
+$$
+
+$$
+\begin{bmatrix} x_new\\ y_new \end{bmatrix}  =  \begin{bmatrix} ax + by \\ cx + dy \\ \end{bmatrix} 
+$$
+
+$$
+\vec{w} = \begin{bmatrix} -.25 & 0 \\0 & -1 \end{bmatrix} \begin{bmatrix} 4\\2\end{bmatrix} =  \begin{bmatrix} (-.25)(4) + (0)(2) \\ (4)(0) + (-1)(2) \\ \end{bmatrix}  $$
+$$
+\vec{w} = \begin{bmatrix} -1 \\ -2 \end{bmatrix}
+$$
+
+
+## Matrix Multiplication(矩阵乘法)
+
+$$
+\vec{v} = \begin{bmatrix} 3\\2\end{bmatrix}
+$$
+
+$$
+$$
+
 ## Vector Norm(向量范数)
 
 A vector norm is a function that maps a vector to a scalar value.
