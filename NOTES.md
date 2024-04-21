@@ -206,6 +206,21 @@ $$
 $$
 $$
 
+
+## The Determinant(行列式)
+
+The determinant of a matrix is a scalar value that can be computed by multiplying the elements in a particular way.
+
+The determinant of a 2x2 matrix is a small number that can be computed by multiplying the elements in a particular way.
+
+The determinant of a 3x3 matrix is a small number that can be computed by multiplying the elements in a particular way.
+
+The determinant of a 4x4 matrix is a small number that can be computed by multiplying the elements in a particular way.
+
+
+Determinants describe how much a sampled area in a vector space changes in scale with linear transformations, and this can help provide helpful information about the transformation.
+
+
 ## Vector Norm(向量范数)
 
 A vector norm is a function that maps a vector to a scalar value.
