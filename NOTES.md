@@ -385,3 +385,21 @@ The most common vector norms are the Euclidean norm, the Manhattan norm, and the
 ## Matrix Eigenvalue(矩阵特征值)
 
 ## Matrix Eigenvector(矩阵特征向量)
+
+# Probability
+
+Why learn probability
+
+
+Probability is the building block to statistics, machine learning, data science, engineering, and several other  disciplines.
+
+It is common to have to make decisions with limitted information, as a matter of act, this is most decisions we make.
+
+Probability anables us to measure how certain we are in an outcome occuring and while this is an imperfect art, it can be immensely valuable.
+
+
+## Monty Hall Problem(蒙提霍尔问题)
+
+## bayes theorem (贝叶斯定理)
+
+## Binomial Distribution(二项分布) and Beta Distribution(和贝塔分布)
