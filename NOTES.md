@@ -400,6 +400,21 @@ Probability anables us to measure how certain we are in an outcome occuring and 
 
 ## Monty Hall Problem(蒙提霍尔问题)
 
+
+
+$$ P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
+
+$$
+P(P1|D2) = \frac{P(D1|P1)P(P1)}{P(D2)} = \frac{(.5)(.33)}{(.5)}
+$$
+
+$$
+P(P2|D2) = \frac{P(D2|P2)P(P2)}{P(D2)} = \frac{(1)(.33)}{.5} = .66
+$$
+
+
+
+
 ## bayes theorem (贝叶斯定理)
 
 ## Binomial Distribution(二项分布) and Beta Distribution(和贝塔分布)
