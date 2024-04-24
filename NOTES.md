@@ -415,6 +415,9 @@ $$
 
 
 
+## joint probabilities(联合概率)
+
+
 ## bayes theorem (贝叶斯定理)
 
 ## Binomial Distribution(二项分布) and Beta Distribution(和贝塔分布)
