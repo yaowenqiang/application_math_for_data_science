@@ -421,3 +421,12 @@ $$
 ## bayes theorem (贝叶斯定理)
 
 ## Binomial Distribution(二项分布) and Beta Distribution(和贝塔分布)
+
+# statistics and hypothesis testing(统计学和假设检验)
+
+## descriptive statistics(描述性统计学)
+## inferential statistics(推论统计学)
+
++ Population(总体)
++ Parameter(参数)
++ Sample(样本)
