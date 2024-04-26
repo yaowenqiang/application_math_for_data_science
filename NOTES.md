@@ -430,3 +430,21 @@ $$
 + Population(总体)
 + Parameter(参数)
 + Sample(样本)
+
+## Mean
+
+The mean is the average of a set of values, or the sum of values divided by the number of values
+
+
+$$ \overline{x} = \frac{x_1+x_2+x_3+...+x_n}{n} = \frac{\sum_{xi}}{n}
+$$
+
+$$\overline{x} = \frac{1}{n}\sum_{i=1}^{n}x_i$$
+
+
+## weighted mean(加权平均数)
+
+
+$$\overline{x} = \frac{1}{n}\sum_{i=1}^{n}w_ix_i$$
+
+$$\frac{(x_1*w_1) + (x_2*w_2) + (x_3*w_3) + ... + (x_n*w_n)}{w_1 + w_2 + w_3 + ... + w_n} = \frac{\sum x_i*w_i}{\sum w_i}$$
